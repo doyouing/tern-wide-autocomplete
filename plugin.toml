@@ -1,0 +1,6 @@
+schema = 1
+id = "tern-wide-autocomplete"
+name = "Tern Wide Autocomplete"
+version = "1.0.3"
+description = "Align Reader's OMP completion menus to both composer edges across pane sizes and font zoom. Keep other chat layouts wide without doubled popup borders."
+window = "window.luau"
